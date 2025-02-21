@@ -25,7 +25,7 @@ What is sucess in our program?
 We created a Time Series Forecasting to use a exponential smoother.
 The prediction further aligns with our hypothesis for poverty population trends. 
 
-# Iervention Modeling:
+# Intervention Modeling:
 
 We can Simulate a 10% annual reduction in poverty due to financial literacy progra
 ms.
