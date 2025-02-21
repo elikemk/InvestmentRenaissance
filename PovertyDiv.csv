@@ -1,0 +1,261 @@
+ID Age,Age,ID Year,Year,ID Poverty Status,Poverty Status,Poverty Population,Poverty Population Moe,Geography,ID Geography,Slug Geography,share,Sex,ID Sex
+0,"Under 5 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",2922,675,"Atlanta, GA","16000US1304000","atlanta-ga",0.035555231072497626,"Male",0
+0,"Under 5 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",3448,593,"Atlanta, GA","16000US1304000","atlanta-ga",0.04195565939013409,"Female",1
+1,"5 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",378,197,"Atlanta, GA","16000US1304000","atlanta-ga",0.00459954734613419,"Male",0
+1,"5 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",815,323,"Atlanta, GA","16000US1304000","atlanta-ga",0.009917013457934828,"Female",1
+2,"6 to 11 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",3751,642,"Atlanta, GA","16000US1304000","atlanta-ga",0.045642598135844835,"Male",0
+2,"6 to 11 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",4324,634,"Atlanta, GA","16000US1304000","atlanta-ga",0.052614927843079994,"Female",1
+3,"12 to 14 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",1560,418,"Atlanta, GA","16000US1304000","atlanta-ga",0.01898225888880777,"Male",0
+3,"12 to 14 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",1549,341,"Atlanta, GA","16000US1304000","atlanta-ga",0.01884840962741233,"Female",1
+4,"15 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",452,207,"Atlanta, GA","16000US1304000","atlanta-ga",0.005499987831885328,"Male",0
+4,"15 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",420,222,"Atlanta, GA","16000US1304000","atlanta-ga",0.005110608162371322,"Female",1
+5,"16 & 17 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",501,201,"Atlanta, GA","16000US1304000","atlanta-ga",0.006096225450828649,"Male",0
+5,"16 & 17 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",916,360,"Atlanta, GA","16000US1304000","atlanta-ga",0.011145993039838407,"Female",1
+6,"18 to 24 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",6494,941.9999999999999,"Atlanta, GA","16000US1304000","atlanta-ga",0.07901973668199849,"Male",0
+6,"18 to 24 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",7563,910,"Atlanta, GA","16000US1304000","atlanta-ga",0.09202745126670074,"Female",1
+7,"25 to 34 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",5157,946.0000000000001,"Atlanta, GA","16000US1304000","atlanta-ga",0.06275096736511646,"Male",0
+7,"25 to 34 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",7558,808,"Atlanta, GA","16000US1304000","atlanta-ga",0.09196661069333917,"Female",1
+8,"35 to 44 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",2882,559,"Atlanta, GA","16000US1304000","atlanta-ga",0.03506850648560512,"Male",0
+8,"35 to 44 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",4248,671,"Atlanta, GA","16000US1304000","atlanta-ga",0.05169015112798423,"Female",1
+9,"45 to 54 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",2914,551,"Atlanta, GA","16000US1304000","atlanta-ga",0.03545788615511913,"Male",0
+9,"45 to 54 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",4195,623,"Atlanta, GA","16000US1304000","atlanta-ga",0.05104524105035166,"Female",1
+10,"55 to 64 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",4734,839,"Atlanta, GA","16000US1304000","atlanta-ga",0.05760385485872819,"Male",0
+10,"55 to 64 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",4951,644,"Atlanta, GA","16000US1304000","atlanta-ga",0.06024433574262004,"Female",1
+11,"65 to 74 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",2225,420,"Atlanta, GA","16000US1304000","atlanta-ga",0.027074055145895694,"Male",0
+11,"65 to 74 Years",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",4022,493,"Atlanta, GA","16000US1304000","atlanta-ga",0.04894015721204156,"Female",1
+12,"75 Years & Over",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",1466,311,"Atlanta, GA","16000US1304000","atlanta-ga",0.017838456109610375,"Male",0
+12,"75 Years & Over",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",2737,451.99999999999994,"Atlanta, GA","16000US1304000","atlanta-ga",0.033304129858119785,"Female",1
+0,"Under 5 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",3403,711,"Atlanta, GA","16000US1304000","atlanta-ga",0.04015054981358252,"Male",0
+0,"Under 5 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",3590,528,"Atlanta, GA","16000US1304000","atlanta-ga",0.04235688328849875,"Female",1
+1,"5 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",376,162,"Atlanta, GA","16000US1304000","atlanta-ga",0.004436264099296805,"Male",0
+1,"5 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",861,312,"Atlanta, GA","16000US1304000","atlanta-ga",0.010158572844400396,"Female",1
+2,"6 to 11 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",4318,672,"Atlanta, GA","16000US1304000","atlanta-ga",0.05094624569352022,"Male",0
+2,"6 to 11 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",4388,623,"Atlanta, GA","16000US1304000","atlanta-ga",0.051772145924772285,"Female",1
+3,"12 to 14 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",1638,391,"Atlanta, GA","16000US1304000","atlanta-ga",0.019326065411298315,"Male",0
+3,"12 to 14 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",1625,418,"Atlanta, GA","16000US1304000","atlanta-ga",0.019172683939780076,"Female",1
+4,"15 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",557,224,"Atlanta, GA","16000US1304000","atlanta-ga",0.006571806125820001,"Male",0
+4,"15 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",555,277,"Atlanta, GA","16000US1304000","atlanta-ga",0.006548208976355656,"Female",1
+5,"16 & 17 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",565,206,"Atlanta, GA","16000US1304000","atlanta-ga",0.00666619472367738,"Male",0
+5,"16 & 17 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",1014,367,"Atlanta, GA","16000US1304000","atlanta-ga",0.011963754778422767,"Female",1
+6,"18 to 24 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",6650,926,"Atlanta, GA","16000US1304000","atlanta-ga",0.07846052196894615,"Male",0
+6,"18 to 24 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",7468,1092,"Atlanta, GA","16000US1304000","atlanta-ga",0.08811175609986313,"Female",1
+7,"25 to 34 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",5761,1095,"Atlanta, GA","16000US1304000","atlanta-ga",0.06797158903204494,"Male",0
+7,"25 to 34 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",8018,864,"Atlanta, GA","16000US1304000","atlanta-ga",0.09460097220255793,"Female",1
+8,"35 to 44 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",2633,507,"Atlanta, GA","16000US1304000","atlanta-ga",0.031065647269809808,"Male",0
+8,"35 to 44 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",4600,678,"Atlanta, GA","16000US1304000","atlanta-ga",0.05427344376799283,"Female",1
+9,"45 to 54 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",2900,450,"Atlanta, GA","16000US1304000","atlanta-ga",0.03421586672329983,"Male",0
+9,"45 to 54 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",4128,675,"Atlanta, GA","16000US1304000","atlanta-ga",0.04870451649440748,"Female",1
+10,"55 to 64 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",4850,852,"Atlanta, GA","16000US1304000","atlanta-ga",0.057223087451035916,"Male",0
+10,"55 to 64 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",5495,730,"Atlanta, GA","16000US1304000","atlanta-ga",0.06483316815328709,"Female",1
+11,"65 to 74 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",2118,395,"Atlanta, GA","16000US1304000","atlanta-ga",0.024989381282741044,"Male",0
+11,"65 to 74 Years",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",3434,477,"Atlanta, GA","16000US1304000","atlanta-ga",0.040516305630279865,"Female",1
+12,"75 Years & Over",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",1218,303,"Atlanta, GA","16000US1304000","atlanta-ga",0.014370664023785926,"Male",0
+12,"75 Years & Over",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",2593,437.00000000000006,"Atlanta, GA","16000US1304000","atlanta-ga",0.030593704280522913,"Female",1
+0,"Under 5 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",4120,723,"Atlanta, GA","16000US1304000","atlanta-ga",0.046317635552157926,"Male",0
+0,"Under 5 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",4047,789,"Atlanta, GA","16000US1304000","atlanta-ga",0.04549695899989882,"Female",1
+1,"5 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",501,179,"Atlanta, GA","16000US1304000","atlanta-ga",0.005632314420298816,"Male",0
+1,"5 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",1053,272,"Atlanta, GA","16000US1304000","atlanta-ga",0.011837978212723858,"Female",1
+2,"6 to 11 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",4542,727,"Atlanta, GA","16000US1304000","atlanta-ga",0.051061820552888666,"Male",0
+2,"6 to 11 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",4643,728,"Atlanta, GA","16000US1304000","atlanta-ga",0.05219727715258963,"Female",1
+3,"12 to 14 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",1651,330,"Atlanta, GA","16000US1304000","atlanta-ga",0.018560780654517654,"Male",0
+3,"12 to 14 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",1771,460,"Atlanta, GA","16000US1304000","atlanta-ga",0.019909838000697015,"Female",1
+4,"15 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",464,203,"Atlanta, GA","16000US1304000","atlanta-ga",0.005216355071893514,"Male",0
+4,"15 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",654,260,"Atlanta, GA","16000US1304000","atlanta-ga",0.007352362536677497,"Female",1
+5,"16 & 17 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",789,224,"Atlanta, GA","16000US1304000","atlanta-ga",0.008870052051129274,"Male",0
+5,"16 & 17 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",1125,290,"Atlanta, GA","16000US1304000","atlanta-ga",0.012647412620431474,"Female",1
+6,"18 to 24 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",7314,955.9999999999999,"Atlanta, GA","16000US1304000","atlanta-ga",0.08222504524963183,"Male",0
+6,"18 to 24 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",7340,868,"Atlanta, GA","16000US1304000","atlanta-ga",0.08251734100797067,"Female",1
+7,"25 to 34 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",6200,867,"Atlanta, GA","16000US1304000","atlanta-ga",0.06970129621926678,"Male",0
+7,"25 to 34 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",8527,974.0000000000001,"Atlanta, GA","16000US1304000","atlanta-ga",0.09586176659059482,"Female",1
+8,"35 to 44 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",2555,489.99999999999994,"Atlanta, GA","16000US1304000","atlanta-ga",0.028723679329068812,"Male",0
+8,"35 to 44 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",5140,777,"Atlanta, GA","16000US1304000","atlanta-ga",0.05778462299468246,"Female",1
+9,"45 to 54 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",3231,513,"Atlanta, GA","16000US1304000","atlanta-ga",0.03632336904587919,"Male",0
+9,"45 to 54 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",4291,701,"Atlanta, GA","16000US1304000","atlanta-ga",0.048240042270463517,"Female",1
+10,"55 to 64 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",4645,768,"Atlanta, GA","16000US1304000","atlanta-ga",0.052219761441692616,"Male",0
+10,"55 to 64 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",5722,768,"Atlanta, GA","16000US1304000","atlanta-ga",0.06432755112365235,"Female",1
+11,"65 to 74 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",2150,343,"Atlanta, GA","16000US1304000","atlanta-ga",0.024170610785713482,"Male",0
+11,"65 to 74 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",3019,392,"Atlanta, GA","16000US1304000","atlanta-ga",0.03394003440096233,"Female",1
+12,"75 Years & Over",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",998,385,"Atlanta, GA","16000US1304000","atlanta-ga",0.011219660262391655,"Male",0
+12,"75 Years & Over",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",2459,333,"Atlanta, GA","16000US1304000","atlanta-ga",0.027644433452125326,"Female",1
+0,"Under 5 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",4413,621,"Atlanta, GA","16000US1304000","atlanta-ga",0.04662489830848715,"Male",0
+0,"Under 5 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",4556,518,"Atlanta, GA","16000US1304000","atlanta-ga",0.048135743642299444,"Female",1
+1,"5 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",710,244,"Atlanta, GA","16000US1304000","atlanta-ga",0.007501399909137973,"Male",0
+1,"5 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",1221,279,"Atlanta, GA","16000US1304000","atlanta-ga",0.012900294773320373,"Female",1
+2,"6 to 11 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",5513,774,"Atlanta, GA","16000US1304000","atlanta-ga",0.058246785491658654,"Male",0
+2,"6 to 11 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",5494,775,"Atlanta, GA","16000US1304000","atlanta-ga",0.05804604380394933,"Female",1
+3,"12 to 14 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",1893,367,"Atlanta, GA","16000US1304000","atlanta-ga",0.020000211307039693,"Male",0
+3,"12 to 14 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",1953,314,"Atlanta, GA","16000US1304000","atlanta-ga",0.020634132426121776,"Female",1
+4,"15 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",619,221.00000000000003,"Atlanta, GA","16000US1304000","atlanta-ga",0.006539952878530148,"Male",0
+4,"15 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",695,238.99999999999997,"Atlanta, GA","16000US1304000","atlanta-ga",0.007342919629367452,"Female",1
+5,"16 & 17 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",878,271,"Atlanta, GA","16000US1304000","atlanta-ga",0.009276379042567803,"Male",0
+5,"16 & 17 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",1429,377,"Atlanta, GA","16000US1304000","atlanta-ga",0.015097887986138259,"Female",1
+6,"18 to 24 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",7258,852,"Atlanta, GA","16000US1304000","atlanta-ga",0.07668332470496254,"Male",0
+6,"18 to 24 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",7960,760,"Atlanta, GA","16000US1304000","atlanta-ga",0.0841002017982229,"Female",1
+7,"25 to 34 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",5834,762,"Atlanta, GA","16000US1304000","atlanta-ga",0.0616382634787478,"Male",0
+7,"25 to 34 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",8957,857,"Atlanta, GA","16000US1304000","atlanta-ga",0.09463385772697018,"Female",1
+8,"35 to 44 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",2805,378,"Atlanta, GA","16000US1304000","atlanta-ga",0.029635812317087343,"Male",0
+8,"35 to 44 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",5181,566,"Atlanta, GA","16000US1304000","atlanta-ga",0.0547390886327378,"Female",1
+9,"45 to 54 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",3629,501,"Atlanta, GA","16000US1304000","atlanta-ga",0.03834166235248127,"Male",0
+9,"45 to 54 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",4600,600,"Atlanta, GA","16000US1304000","atlanta-ga",0.0486006191296263,"Female",1
+10,"55 to 64 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",4457,448,"Atlanta, GA","16000US1304000","atlanta-ga",0.047089773795814006,"Male",0
+10,"55 to 64 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",5803,653,"Atlanta, GA","16000US1304000","atlanta-ga",0.06131073756722205,"Female",1
+11,"65 to 74 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",2031,303,"Atlanta, GA","16000US1304000","atlanta-ga",0.021458229880928482,"Male",0
+11,"65 to 74 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",3240,371,"Atlanta, GA","16000US1304000","atlanta-ga",0.03423174043043244,"Female",1
+12,"75 Years & Over",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",767,210,"Atlanta, GA","16000US1304000","atlanta-ga",0.00810362497226595,"Male",0
+12,"75 Years & Over",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",2753,382,"Atlanta, GA","16000US1304000","atlanta-ga",0.029086414013882872,"Female",1
+0,"Under 5 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",4522,621,"Atlanta, GA","16000US1304000","atlanta-ga",0.046995489596973666,"Male",0
+0,"Under 5 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",4583,583,"Atlanta, GA","16000US1304000","atlanta-ga",0.04762944025274885,"Female",1
+1,"5 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",832,207,"Atlanta, GA","16000US1304000","atlanta-ga",0.008646671239425495,"Male",0
+1,"5 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",1112,278,"Atlanta, GA","16000US1304000","atlanta-ga",0.011556608675770614,"Female",1
+2,"6 to 11 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",5234,667,"Atlanta, GA","16000US1304000","atlanta-ga",0.054395044792251254,"Male",0
+2,"6 to 11 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",5406,690,"Atlanta, GA","16000US1304000","atlanta-ga",0.05618257778886326,"Female",1
+3,"12 to 14 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",2048,340,"Atlanta, GA","16000US1304000","atlanta-ga",0.021284113820124295,"Male",0
+3,"12 to 14 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",2191,436,"Atlanta, GA","16000US1304000","atlanta-ga",0.02277026043940055,"Female",1
+4,"15 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",530,194,"Atlanta, GA","16000US1304000","atlanta-ga",0.00550809586165326,"Male",0
+4,"15 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",827,246.00000000000003,"Atlanta, GA","16000US1304000","atlanta-ga",0.008594708070919332,"Female",1
+5,"16 & 17 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",1204,282,"Atlanta, GA","16000US1304000","atlanta-ga",0.01251273097628401,"Male",0
+5,"16 & 17 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",1372,301,"Atlanta, GA","16000US1304000","atlanta-ga",0.014258693438091082,"Female",1
+6,"18 to 24 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",7787,841,"Atlanta, GA","16000US1304000","atlanta-ga",0.080927438631498,"Male",0
+6,"18 to 24 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",8104,946.0000000000001,"Atlanta, GA","16000US1304000","atlanta-ga",0.08422190351478871,"Female",1
+7,"25 to 34 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",5562,658,"Atlanta, GA","16000US1304000","atlanta-ga",0.05780382864625554,"Male",0
+7,"25 to 34 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",8896,835,"Atlanta, GA","16000US1304000","atlanta-ga",0.09245286940616491,"Female",1
+8,"35 to 44 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",3230,455,"Atlanta, GA","16000US1304000","atlanta-ga",0.033568206854981186,"Male",0
+8,"35 to 44 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",5766,663,"Atlanta, GA","16000US1304000","atlanta-ga",0.05992392592130698,"Female",1
+9,"45 to 54 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",4043,461.00000000000006,"Atlanta, GA","16000US1304000","atlanta-ga",0.042017418054083266,"Male",0
+9,"45 to 54 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",4697,552,"Atlanta, GA","16000US1304000","atlanta-ga",0.04881420049468936,"Female",1
+10,"55 to 64 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",4354,406,"Atlanta, GA","16000US1304000","atlanta-ga",0.04524952713516659,"Male",0
+10,"55 to 64 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",5383,552,"Atlanta, GA","16000US1304000","atlanta-ga",0.05594354721373491,"Female",1
+11,"65 to 74 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",2081,307,"Atlanta, GA","16000US1304000","atlanta-ga",0.02162707073226497,"Male",0
+11,"65 to 74 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",3080,382,"Atlanta, GA","16000US1304000","atlanta-ga",0.032009311799796304,"Female",1
+12,"75 Years & Over",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",722,189,"Atlanta, GA","16000US1304000","atlanta-ga",0.007503481532289913,"Male",0
+12,"75 Years & Over",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",2656,367,"Atlanta, GA","16000US1304000","atlanta-ga",0.027602835110473695,"Female",1
+0,"Under 5 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",4892,651,"Atlanta, GA","16000US1304000","atlanta-ga",0.05010806215366336,"Male",0
+0,"Under 5 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",4771,510,"Atlanta, GA","16000US1304000","atlanta-ga",0.048868676315439064,"Female",1
+1,"5 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",894,256,"Atlanta, GA","16000US1304000","atlanta-ga",0.009157115201425805,"Male",0
+1,"5 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",1188,280,"Atlanta, GA","16000US1304000","atlanta-ga",0.012168515502565836,"Female",1
+2,"6 to 11 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",5091,726,"Atlanta, GA","16000US1304000","atlanta-ga",0.052146390928924806,"Male",0
+2,"6 to 11 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",5431,603,"Atlanta, GA","16000US1304000","atlanta-ga",0.05562896270575341,"Female",1
+3,"12 to 14 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",2264,407,"Atlanta, GA","16000US1304000","atlanta-ga",0.02318983089041166,"Male",0
+3,"12 to 14 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",2282,340,"Atlanta, GA","16000US1304000","atlanta-ga",0.023374202337420234,"Female",1
+4,"15 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",648,210,"Atlanta, GA","16000US1304000","atlanta-ga",0.006637372092308638,"Male",0
+4,"15 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",793,229,"Atlanta, GA","16000US1304000","atlanta-ga",0.008122586526544366,"Female",1
+5,"16 & 17 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",1116,248,"Atlanta, GA","16000US1304000","atlanta-ga",0.011431029714531542,"Male",0
+5,"16 & 17 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",1398,288,"Atlanta, GA","16000US1304000","atlanta-ga",0.014319515717665857,"Female",1
+6,"18 to 24 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",7874,744,"Atlanta, GA","16000US1304000","atlanta-ga",0.08065226520808366,"Male",0
+6,"18 to 24 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",8329,930,"Atlanta, GA","16000US1304000","atlanta-ga",0.0853127656741337,"Female",1
+7,"25 to 34 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",5409,656,"Atlanta, GA","16000US1304000","atlanta-ga",0.05540361982607627,"Male",0
+7,"25 to 34 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",9171,830,"Atlanta, GA","16000US1304000","atlanta-ga",0.09393725225086809,"Female",1
+8,"35 to 44 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",3354,401,"Atlanta, GA","16000US1304000","atlanta-ga",0.03435454629259749,"Male",0
+8,"35 to 44 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",5718,568,"Atlanta, GA","16000US1304000","atlanta-ga",0.05856866299972344,"Female",1
+9,"45 to 54 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",4507,561,"Atlanta, GA","16000US1304000","atlanta-ga",0.04616456175931332,"Male",0
+9,"45 to 54 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",5304,534,"Atlanta, GA","16000US1304000","atlanta-ga",0.05432811971852626,"Female",1
+10,"55 to 64 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",4402,370,"Atlanta, GA","16000US1304000","atlanta-ga",0.04508906165176331,"Male",0
+10,"55 to 64 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",5150,462,"Atlanta, GA","16000US1304000","atlanta-ga",0.05275071956078624,"Female",1
+11,"65 to 74 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",1915,283,"Atlanta, GA","16000US1304000","atlanta-ga",0.019615073390078768,"Male",0
+11,"65 to 74 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",2866,310,"Atlanta, GA","16000US1304000","atlanta-ga",0.029356031507031723,"Female",1
+12,"75 Years & Over",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",574,167,"Atlanta, GA","16000US1304000","atlanta-ga",0.0058794005879400585,"Male",0
+12,"75 Years & Over",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",2288,399,"Atlanta, GA","16000US1304000","atlanta-ga",0.02343565948642309,"Female",1
+0,"Under 5 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",5265,642,"Atlanta, GA","16000US1304000","atlanta-ga",0.05146074224667924,"Male",0
+0,"Under 5 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",5543,753,"Atlanta, GA","16000US1304000","atlanta-ga",0.05417794763026459,"Female",1
+1,"5 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",922,238,"Atlanta, GA","16000US1304000","atlanta-ga",0.009011738718221892,"Male",0
+1,"5 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",1193,274,"Atlanta, GA","16000US1304000","atlanta-ga",0.01166052526121336,"Female",1
+2,"6 to 11 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",5121,593,"Atlanta, GA","16000US1304000","atlanta-ga",0.050053268954462375,"Male",0
+2,"6 to 11 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",5244,624,"Atlanta, GA","16000US1304000","atlanta-ga",0.05125548572489762,"Female",1
+3,"12 to 14 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",2417,391,"Atlanta, GA","16000US1304000","atlanta-ga",0.02362404824505674,"Male",0
+3,"12 to 14 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",2438,453,"Atlanta, GA","16000US1304000","atlanta-ga",0.023829304766838366,"Female",1
+4,"15 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",555,170,"Atlanta, GA","16000US1304000","atlanta-ga",0.005424636647085846,"Male",0
+4,"15 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",824,197,"Atlanta, GA","16000US1304000","atlanta-ga",0.008053874949907634,"Female",1
+5,"16 & 17 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",1111,230,"Atlanta, GA","16000US1304000","atlanta-ga",0.010859047414256532,"Male",0
+5,"16 & 17 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",1474,289,"Atlanta, GA","16000US1304000","atlanta-ga",0.01440705300505322,"Female",1
+6,"18 to 24 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",8254,735,"Atlanta, GA","16000US1304000","atlanta-ga",0.0806755871802641,"Male",0
+6,"18 to 24 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",9342,780,"Atlanta, GA","16000US1304000","atlanta-ga",0.09130982983256933,"Female",1
+7,"25 to 34 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",5857,549,"Atlanta, GA","16000US1304000","atlanta-ga",0.057247021336904146,"Male",0
+7,"25 to 34 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",9234,737,"Atlanta, GA","16000US1304000","atlanta-ga",0.09025422486340667,"Female",1
+8,"35 to 44 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",3902,408,"Atlanta, GA","16000US1304000","atlanta-ga",0.03813861657104319,"Male",0
+8,"35 to 44 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",5540,505,"Atlanta, GA","16000US1304000","atlanta-ga",0.05414862527001007,"Female",1
+9,"45 to 54 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",5020,569,"Atlanta, GA","16000US1304000","atlanta-ga",0.0490660828258936,"Male",0
+9,"45 to 54 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",5867,581,"Atlanta, GA","16000US1304000","atlanta-ga",0.05734476253775254,"Female",1
+10,"55 to 64 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",4535,448,"Atlanta, GA","16000US1304000","atlanta-ga",0.04432563458474651,"Male",0
+10,"55 to 64 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",5183,486,"Atlanta, GA","16000US1304000","atlanta-ga",0.05065926439972242,"Female",1
+11,"65 to 74 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",1792,288,"Atlanta, GA","16000US1304000","atlanta-ga",0.017515223192032137,"Male",0
+11,"65 to 74 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",2869,350,"Atlanta, GA","16000US1304000","atlanta-ga",0.028041950523404132,"Female",1
+12,"75 Years & Over",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",590,159,"Atlanta, GA","16000US1304000","atlanta-ga",0.0057667308500552236,"Male",0
+12,"75 Years & Over",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",2219,302,"Atlanta, GA","16000US1304000","atlanta-ga",0.021688772468258545,"Female",1
+0,"Under 5 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",5477,538,"Atlanta, GA","16000US1304000","atlanta-ga",0.05293935703377216,"Male",0
+0,"Under 5 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",5539,535,"Atlanta, GA","16000US1304000","atlanta-ga",0.05353863403506737,"Female",1
+1,"5 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",902,211,"Atlanta, GA","16000US1304000","atlanta-ga",0.008718513793036788,"Male",0
+1,"5 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",1167,272,"Atlanta, GA","16000US1304000","atlanta-ga",0.011279939685669546,"Female",1
+2,"6 to 11 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",4891,531,"Atlanta, GA","16000US1304000","atlanta-ga",0.04727522279572387,"Male",0
+2,"6 to 11 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",5092,587,"Atlanta, GA","16000US1304000","atlanta-ga",0.049218040170890605,"Female",1
+3,"12 to 14 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",2408,320,"Atlanta, GA","16000US1304000","atlanta-ga",0.023275145469659187,"Male",0
+3,"12 to 14 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",2332,304,"Atlanta, GA","16000US1304000","atlanta-ga",0.02254054785516828,"Female",1
+4,"15 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",695,211,"Atlanta, GA","16000US1304000","atlanta-ga",0.006717701869357614,"Male",0
+4,"15 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",731,166,"Atlanta, GA","16000US1304000","atlanta-ga",0.007065669160432253,"Female",1
+5,"16 & 17 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",1111,234.00000000000003,"Atlanta, GA","16000US1304000","atlanta-ga",0.010738657232886775,"Male",0
+5,"16 & 17 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",1511,305,"Atlanta, GA","16000US1304000","atlanta-ga",0.01460496046704943,"Female",1
+6,"18 to 24 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",8601,706,"Atlanta, GA","16000US1304000","atlanta-ga",0.0831351852925825,"Male",0
+6,"18 to 24 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",10133,776,"Atlanta, GA","16000US1304000","atlanta-ga",0.09794312667942547,"Female",1
+7,"25 to 34 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",5881,530,"Atlanta, GA","16000US1304000","atlanta-ga",0.05684432330027644,"Male",0
+7,"25 to 34 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",9447,805,"Atlanta, GA","16000US1304000","atlanta-ga",0.09131241663283651,"Female",1
+8,"35 to 44 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",3912,418,"Atlanta, GA","16000US1304000","atlanta-ga",0.03781244563011077,"Male",0
+8,"35 to 44 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",5643,407,"Atlanta, GA","16000US1304000","atlanta-ga",0.05454387287594966,"Female",1
+9,"45 to 54 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",5074,585,"Atlanta, GA","16000US1304000","atlanta-ga",0.049044056525353284,"Male",0
+9,"45 to 54 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",5663,504.00000000000006,"Atlanta, GA","16000US1304000","atlanta-ga",0.05473718803765779,"Female",1
+10,"55 to 64 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",4540,398,"Atlanta, GA","16000US1304000","atlanta-ga",0.04388254170774614,"Male",0
+10,"55 to 64 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",5292,528,"Atlanta, GA","16000US1304000","atlanta-ga",0.05115119178797193,"Female",1
+11,"65 to 74 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",1549,257,"Atlanta, GA","16000US1304000","atlanta-ga",0.014972259274294884,"Male",0
+11,"65 to 74 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",2810,324,"Atlanta, GA","16000US1304000","atlanta-ga",0.027160780219992655,"Female",1
+12,"75 Years & Over",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",648,169,"Atlanta, GA","16000US1304000","atlanta-ga",0.006263411239343502,"Male",0
+12,"75 Years & Over",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",2409,301,"Atlanta, GA","16000US1304000","atlanta-ga",0.023284811227744593,"Female",1
+0,"Under 5 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",5776,608,"Atlanta, GA","16000US1304000","atlanta-ga",0.0555325878993568,"Male",0
+0,"Under 5 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",5748,630,"Atlanta, GA","16000US1304000","atlanta-ga",0.05526338560344579,"Female",1
+1,"5 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",921,222,"Atlanta, GA","16000US1304000","atlanta-ga",0.008854832661929988,"Male",0
+1,"5 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",954,222,"Atlanta, GA","16000US1304000","atlanta-ga",0.009172106796396535,"Female",1
+2,"6 to 11 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",5063,531,"Atlanta, GA","16000US1304000","atlanta-ga",0.04867754372133717,"Male",0
+2,"6 to 11 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",4835,581,"Atlanta, GA","16000US1304000","atlanta-ga",0.04648546788320466,"Female",1
+3,"12 to 14 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",2381,369,"Atlanta, GA","16000US1304000","atlanta-ga",0.022891809520146907,"Male",0
+3,"12 to 14 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",2317,396,"Atlanta, GA","16000US1304000","atlanta-ga",0.02227648998663603,"Female",1
+4,"15 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",541,132,"Atlanta, GA","16000US1304000","atlanta-ga",0.005201372931709147,"Male",0
+4,"15 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",716,163,"Atlanta, GA","16000US1304000","atlanta-ga",0.006883887281152955,"Female",1
+5,"16 & 17 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",1249,264,"Atlanta, GA","16000US1304000","atlanta-ga",0.012008345271173242,"Male",0
+5,"16 & 17 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",1381,307,"Atlanta, GA","16000US1304000","atlanta-ga",0.013277441809039428,"Female",1
+6,"18 to 24 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",8625,725,"Atlanta, GA","16000US1304000","atlanta-ga",0.08292392150830201,"Male",0
+6,"18 to 24 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",10631,931.9999999999999,"Atlanta, GA","16000US1304000","atlanta-ga",0.10221034313678361,"Female",1
+7,"25 to 34 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",5735,697,"Atlanta, GA","16000US1304000","atlanta-ga",0.055138398823201394,"Male",0
+7,"25 to 34 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",9325,778,"Atlanta, GA","16000US1304000","atlanta-ga",0.08965397890607724,"Female",1
+8,"35 to 44 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",3837,460,"Atlanta, GA","16000US1304000","atlanta-ga",0.0368903289075194,"Male",0
+8,"35 to 44 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",5785,516,"Atlanta, GA","16000US1304000","atlanta-ga",0.055619117208756765,"Female",1
+9,"45 to 54 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",5122,551,"Atlanta, GA","16000US1304000","atlanta-ga",0.04924479141629251,"Male",0
+9,"45 to 54 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",6011,572,"Atlanta, GA","16000US1304000","atlanta-ga",0.057791964311467055,"Female",1
+10,"55 to 64 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",4362,460,"Atlanta, GA","16000US1304000","atlanta-ga",0.041937871955850824,"Male",0
+10,"55 to 64 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",4998,448,"Atlanta, GA","16000US1304000","atlanta-ga",0.04805260982011518,"Female",1
+11,"65 to 74 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",1564,238.99999999999997,"Atlanta, GA","16000US1304000","atlanta-ga",0.015036871100172097,"Male",0
+11,"65 to 74 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",2929,328,"Atlanta, GA","16000US1304000","atlanta-ga",0.028160483025833807,"Female",1
+12,"75 Years & Over",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",765,197,"Atlanta, GA","16000US1304000","atlanta-ga",0.007354991298997221,"Male",0
+12,"75 Years & Over",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",2440,285,"Atlanta, GA","16000US1304000","atlanta-ga",0.02345905721510225,"Female",1
+0,"Under 5 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",5297,592,"Atlanta, GA","16000US1304000","atlanta-ga",0.0522546340597224,"Male",0
+0,"Under 5 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",5371,579,"Atlanta, GA","16000US1304000","atlanta-ga",0.05298464027464018,"Female",1
+1,"5 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",860,241,"Atlanta, GA","16000US1304000","atlanta-ga",0.008483856011206582,"Male",0
+1,"5 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",1004,229,"Atlanta, GA","16000US1304000","atlanta-ga",0.009904408645641172,"Female",1
+2,"6 to 11 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",4780,567,"Atlanta, GA","16000US1304000","atlanta-ga",0.047154455504148214,"Male",0
+2,"6 to 11 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",4324,570,"Atlanta, GA","16000US1304000","atlanta-ga",0.04265603882843867,"Female",1
+3,"12 to 14 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",2281,313,"Atlanta, GA","16000US1304000","atlanta-ga",0.022501948327397922,"Male",0
+3,"12 to 14 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",2262,341,"Atlanta, GA","16000US1304000","atlanta-ga",0.02231451429924336,"Female",1
+4,"15 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",605,156,"Atlanta, GA","16000US1304000","atlanta-ga",0.005968294054395328,"Male",0
+4,"15 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",714,173,"Atlanta, GA","16000US1304000","atlanta-ga",0.007043573479071511,"Female",1
+5,"16 & 17 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",1263,238.99999999999997,"Atlanta, GA","16000US1304000","atlanta-ga",0.012459430397853388,"Male",0
+5,"16 & 17 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",1527,319,"Atlanta, GA","16000US1304000","atlanta-ga",0.015063776894316802,"Female",1
+6,"18 to 24 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",8165,844,"Atlanta, GA","16000US1304000","atlanta-ga",0.08054730736221133,"Male",0
+6,"18 to 24 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",10893,868,"Atlanta, GA","16000US1304000","atlanta-ga",0.10745888782566662,"Female",1
+7,"25 to 34 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",5449,623,"Atlanta, GA","16000US1304000","atlanta-ga",0.053754106284958914,"Male",0
+7,"25 to 34 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",9367,710,"Atlanta, GA","16000US1304000","atlanta-ga",0.09240497588020007,"Female",1
+8,"35 to 44 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",3915,457,"Atlanta, GA","16000US1304000","atlanta-ga",0.038621274748690426,"Male",0
+8,"35 to 44 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",5261,541,"Atlanta, GA","16000US1304000","atlanta-ga",0.05189949590111375,"Female",1
+9,"45 to 54 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",4758,568,"Atlanta, GA","16000US1304000","atlanta-ga",0.046937426629442926,"Male",0
+9,"45 to 54 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",5560,514,"Atlanta, GA","16000US1304000","atlanta-ga",0.054849115607335575,"Female",1
+10,"55 to 64 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",4259,429,"Atlanta, GA","16000US1304000","atlanta-ga",0.04201481715317306,"Male",0
+10,"55 to 64 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",5492,426,"Atlanta, GA","16000US1304000","atlanta-ga",0.054178299085519244,"Female",1
+11,"65 to 74 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",1532,230,"Atlanta, GA","16000US1304000","atlanta-ga",0.015113101638568004,"Male",0
+11,"65 to 74 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",2873,353,"Atlanta, GA","16000US1304000","atlanta-ga",0.02834199804674013,"Female",1
+12,"75 Years & Over",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",873,179,"Atlanta, GA","16000US1304000","atlanta-ga",0.008612100346259704,"Male",0
+12,"75 Years & Over",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",2684,363,"Atlanta, GA","16000US1304000","atlanta-ga",0.026477522714044726,"Female",1
