@@ -1,3 +1,11 @@
+
+# Forecasting Graph to predict Effifiency In R.P.P
+
+##Purpose:
+The purpose of this Document is to state the process of creating R.P.P and the potiental outcomes 
+
+
+
 How to make a predictive model to measure the sucess of investmenst renaasiance? 
 What is sucess in our program? 
 -Finanical Lifelong sucess
